@@ -65,7 +65,7 @@ The dashboard uncovers key behavioral patterns and performance insights such as:
 
 ## 🔗 Live Dashboard
 
-[<img src= "https://github.com/ritupermani/Uber-Trip-Analysis/blob/main/OverView%20Dashboard.png">](https://app.powerbi.com/groups/00d85a3a-0fd2-41a7-9f04-9c84195c29ac/reports/1db1c092-0a93-4f6f-b2a6-b9db77eeb8d8/12020a54bb7b6dc4120b?experience=power-bi&bookmarkGuid=12891a9dc0520589a050)
+[<img src= "https://github.com/ritupermani/Uber-Trip-Analysis/blob/main/OverView%20Dashboard.png">](https://app.powerbi.com/view?r=eyJrIjoiNmFmNjkxNWQtMTQxMS00NTkzLTllOGQtZTM4YjViZjJiY2I2IiwidCI6IjUxZTYzYTMyLWVmY2MtNGVmMy05OWM0LWYwODhlODdhM2M2MiJ9)
 
 > Click the image above to explore the **interactive Power BI dashboard** live.
 
